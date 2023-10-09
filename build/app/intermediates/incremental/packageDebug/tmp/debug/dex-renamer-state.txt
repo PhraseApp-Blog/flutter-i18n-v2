@@ -1,0 +1,4 @@
+#Tue Oct 10 01:15:27 IST 2023
+base.0=/Users/abc/Documents/flutter_eg/hello_world/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
